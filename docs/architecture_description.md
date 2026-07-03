@@ -1,0 +1,9 @@
+- Top-level module: UDS_RWFONN.v
+- Internal evaluator: eval_UDS_RWFONN.v
+- UDS-I master system
+- RWFONN identifier
+- Filtered-error dynamics
+- Forward Euler integrators
+- PIPO registers
+- Counter / enable logic
+- Morlet activation datapath
