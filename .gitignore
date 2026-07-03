@@ -1,0 +1,49 @@
+# Active-HDL / Aldec project and generated files
+*.adf
+*.aws
+*.duser
+*.wsp
+*.wsw
+*.set
+*.cfg
+*.ini
+*.order
+*.asdb
+*.awc
+
+# Simulation / compilation generated folders
+compile/
+log/
+work/
+library/
+simulation/
+transcript
+*.vcd
+*.wlf
+
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+*.qpf
+*.qsf
+*.sof
+*.pof
+*.rpt
+*.summary
+*.done
+*.smsg
+*.pin
+*.fit.*
+*.sta.*
+*.map.*
+*.flow.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
