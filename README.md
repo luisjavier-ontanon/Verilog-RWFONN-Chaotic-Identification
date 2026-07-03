@@ -4,9 +4,9 @@
 
 ## FPGA-Oriented Pre-Silicon Validation of an RWFONN for Chaotic Dynamical-System Identification
 
-This repository contains Verilog, simulation data, MATLAB plotting scripts, scientific figures, and documentation for a **Verilog-based pre-silicon validation** of a **Recurrent Wavelet First-Order Neural Network (RWFONN)** [1-3] applied to chaotic dynamical-system identification.
+This repository contains Verilog, simulation data, MATLAB plotting scripts, scientific figures, and documentation for a **Verilog-based pre-silicon validation** of a **Recurrent Wavelet First-Order Neural Network (RWFONN)** [1–3](#references) applied to chaotic dynamical-system identification.
 
-The project focuses on the digital implementation of a neural identifier for an **Unstable Dissipative System of type I (UDS-I)** [1] using:
+The project focuses on the digital implementation of a neural identifier for an **Unstable Dissipative System of type I (UDS-I)** [1](#references) using:
 
 - 32-bit fixed-point two's-complement arithmetic,
 - Q1.11.20 numerical representation,
@@ -312,36 +312,37 @@ If results are generated using a specific proprietary or student-edition simulat
 
 ---
 
-## Related Publications
+## References
 
 ### Core RWFONN and neural-identification works
 
+<a id="ref-1"></a>
 [1]. Magallón-García, D. A., et al.  
    **RWFONN-based identification of chaotic dynamical systems.**  
    Full bibliographic details to be completed according to the final manuscript.
-
+<a id="ref-2"></a>
 [2]. Magallón-García, D. A., et al.  
    **Real-time RWFONN validation on field-programmable analog arrays.**  
    Full bibliographic details to be completed according to the final manuscript.
-
+<a id="ref-3"></a>
 [3]. Echenausía-Monroy, J. L., et al.  
    **A recurrent neural network for identifying multiple chaotic systems.**  
    Full bibliographic details to be completed according to the final manuscript.
-
+<a id="ref-4"></a>
 [4]. O. Guillen-Fernández, et al.  
    **Related work on neural, dynamical, and electronic implementations.**  
    Additional publications listed below.
 
 ### FPGA and numerical-method references relevant to this repository
-
+<a id="ref-5"></a>
 [5]. Guillen-Fernandez, O., Moreno-Lopez, M. F., & Tlelo-Cuautle, E. (2021).  
    **Issues on applying one- and multi-step numerical methods to chaotic oscillators for FPGA implementation.**  
    *Mathematics, 9*(2), 151.
-
+<a id="ref-6"></a>
 [6]. Sambas, A., Vaidyanathan, S., Tlelo-Cuautle, E., Abd-El-Atty, B., Abd El-Latif, A. A., Guillén-Fernández, O., ... & Gundara, G. (2020).  
    **A 3-D multi-stable system with a peanut-shaped equilibrium curve: Circuit design, FPGA realization, and an application to image encryption.**  
    *IEEE Access, 8*, 137116-137132.
-
+<a id="ref-7"></a>
 [7]. Vaidyanathan, S., Tlelo-Cuautle, E., Guillén-Fernández, O., Benkouider, K., & Sambas, A. (2022).  
    **A New 4-D Hyperchaotic System with No Balance Point, Its Bifurcation Analysis, Multi-Stability, Circuit Simulation, and FPGA Realization.**  
    In G. Huerta Cuéllar, E. Campos Cantón, & E. Tlelo-Cuautle (Eds.), *Complex Systems and Their Applications*. Springer, Cham.  
