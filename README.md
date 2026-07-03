@@ -1,6 +1,6 @@
 # Verilog-RWFONN-Chaotic-Identification
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=YOUR-GITHUB-USERNAME/Verilog-RWFONN-Chaotic-Identification)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=luisjavier-ontanon/Verilog-RWFONN-Chaotic-Identification&file=matlab_ploting/plot_UDS_RWFONN_csv.m)
 
 ## FPGA-Oriented Pre-Silicon Validation of an RWFONN for Chaotic Dynamical-System Identification
 
@@ -277,19 +277,6 @@ The MATLAB workflow includes:
 
 ---
 
-## Open in MATLAB Online
-
-The MATLAB plotting scripts can be opened directly in MATLAB Online after the repository is created.
-
-Replace `YOUR-GITHUB-USERNAME` with the final GitHub user or organization name:
-
-```markdown
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=YOUR-GITHUB-USERNAME/Verilog-RWFONN-Chaotic-Identification)
-```
-
-A MathWorks account may be required.
-
----
 
 ## Verilog Simulation
 
