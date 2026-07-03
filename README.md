@@ -377,7 +377,7 @@ O. Guillen-Fernández, D. A. Magallon-Garcia, I. Diaz-Allen,
 E. Campos-Cantón, J. H. García-López, and L. J. Ontanon-Garcia,
 "Verilog-RWFONN-Chaotic-Identification,"
 GitHub repository, 2026.
-[Online]. Available: https://github.com/YOUR-GITHUB-USERNAME/Verilog-RWFONN-Chaotic-Identification
+[Online]. Available: https://github.com/luisjavier-ontanon/Verilog-RWFONN-Chaotic-Identification
 ```
 
 After publication of the associated paper, please cite the paper as the primary reference.
