@@ -1,7 +1,13 @@
 clear; clc; close all;
 
-% Leer archivo CSV
-T = readtable("C:/My_Designs/UDS_RWFONN_9signals.csv");
+% Locate this script folder
+scriptDir = fileparts(mfilename('fullpath'));
+
+% CSV file path relative to the repository structure
+csvFile = fullfile(scriptDir, '..', 'csv_signal', 'UDS_RWFONN_9signals.csv');
+
+% Read CSV file
+T = readtable(csvFile);
 
 % Tiempo
 t = T.time_ns;
