@@ -317,36 +317,38 @@ If results are generated using a specific proprietary or student-edition simulat
 ### Core RWFONN and neural-identification works
 
 <a id="ref-1"></a>
-[1]. Magallón-García, D. A., et al.  
-   **RWFONN-based identification of chaotic dynamical systems.**  
-   Full bibliographic details to be completed according to the final manuscript.
+[1] D. A. Magallón-García et al.,  
+“RWFONN-based identification of chaotic dynamical systems,”  
+manuscript pending publication. Final bibliographic information will be updated after peer review and formal publication.
+
 <a id="ref-2"></a>
-[2]. Magallón-García, D. A., et al.  
-   **Real-time RWFONN validation on field-programmable analog arrays.**  
-   Full bibliographic details to be completed according to the final manuscript.
+[2] D. A. Magallón-García et al.,  
+“Real-time RWFONN validation on field-programmable analog arrays,”  
+manuscript pending publication. Final bibliographic information will be updated after peer review and formal publication.
+
 <a id="ref-3"></a>
-[3]. Echenausía-Monroy, J. L., et al.  
-   **A recurrent neural network for identifying multiple chaotic systems.**  
-   Full bibliographic details to be completed according to the final manuscript.
-<a id="ref-4"></a>
-[4]. O. Guillen-Fernández, et al.  
-   **Related work on neural, dynamical, and electronic implementations.**  
-   Additional publications listed below.
+[3] J. L. Echenausía-Monroy et al.,  
+“A recurrent neural network for identifying multiple chaotic systems,”  
+manuscript pending publication. Final bibliographic information will be updated after peer review and formal publication.
 
 ### FPGA and numerical-method references relevant to this repository
+
+<a id="ref-4"></a>
+[4] O. Guillen-Fernandez, M. F. Moreno-Lopez, and E. Tlelo-Cuautle,  
+“Issues on applying one- and multi-step numerical methods to chaotic oscillators for FPGA implementation,”  
+*Mathematics*, vol. 9, no. 2, article 151, 2021.
+
 <a id="ref-5"></a>
-[5]. Guillen-Fernandez, O., Moreno-Lopez, M. F., & Tlelo-Cuautle, E. (2021).  
-   **Issues on applying one- and multi-step numerical methods to chaotic oscillators for FPGA implementation.**  
-   *Mathematics, 9*(2), 151.
+[5] A. Sambas, S. Vaidyanathan, E. Tlelo-Cuautle, B. Abd-El-Atty, A. A. Abd El-Latif, O. Guillén-Fernández, et al.,  
+“A 3-D multi-stable system with a peanut-shaped equilibrium curve: Circuit design, FPGA realization, and an application to image encryption,”  
+*IEEE Access*, vol. 8, pp. 137116–137132, 2020.
+
 <a id="ref-6"></a>
-[6]. Sambas, A., Vaidyanathan, S., Tlelo-Cuautle, E., Abd-El-Atty, B., Abd El-Latif, A. A., Guillén-Fernández, O., ... & Gundara, G. (2020).  
-   **A 3-D multi-stable system with a peanut-shaped equilibrium curve: Circuit design, FPGA realization, and an application to image encryption.**  
-   *IEEE Access, 8*, 137116-137132.
-<a id="ref-7"></a>
-[7]. Vaidyanathan, S., Tlelo-Cuautle, E., Guillén-Fernández, O., Benkouider, K., & Sambas, A. (2022).  
-   **A New 4-D Hyperchaotic System with No Balance Point, Its Bifurcation Analysis, Multi-Stability, Circuit Simulation, and FPGA Realization.**  
-   In G. Huerta Cuéllar, E. Campos Cantón, & E. Tlelo-Cuautle (Eds.), *Complex Systems and Their Applications*. Springer, Cham.  
-   https://doi.org/10.1007/978-3-031-02472-6_9
+[6] S. Vaidyanathan, E. Tlelo-Cuautle, O. Guillén-Fernández, K. Benkouider, and A. Sambas,  
+“A New 4-D Hyperchaotic System with No Balance Point, Its Bifurcation Analysis, Multi-Stability, Circuit Simulation, and FPGA Realization,”  
+in G. Huerta Cuéllar, E. Campos Cantón, and E. Tlelo-Cuautle, Eds., *Complex Systems and Their Applications*.  
+Cham: Springer, 2022.  
+https://doi.org/10.1007/978-3-031-02472-6_9
 
 ### Publication Status
 
