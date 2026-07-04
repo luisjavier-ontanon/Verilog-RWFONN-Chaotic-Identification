@@ -194,7 +194,7 @@ Verilog-RWFONN-Chaotic-Identification/
 │   ├── tb_UDS_RWFONN.v
 │   └── simulation_notes.md
 │
-├── matlab_ploting/
+├── matlab_plotting/
 │   ├── plot_UDS_RWFONN_csv.m
 │   └── README_matlab_ploting.md
 │
