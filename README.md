@@ -4,9 +4,9 @@
 
 ## FPGA-Oriented Pre-Silicon Validation of an RWFONN for Chaotic Dynamical-System Identification
 
-This repository contains Verilog, simulation data, MATLAB plotting scripts, scientific figures, and documentation for a **Verilog-based pre-silicon validation** of a **Recurrent Wavelet First-Order Neural Network (RWFONN)** [1–3](#references) applied to chaotic dynamical-system identification.
+This repository contains Verilog, simulation data, MATLAB plotting scripts, scientific figures, and documentation for a **Verilog-based pre-silicon validation** of a **Recurrent Wavelet First-Order Neural Network (RWFONN)** [[1]](#ref-1)–[[3]](#ref-3) applied to chaotic dynamical-system identification.
 
-The project focuses on the digital implementation of a neural identifier for an **Unstable Dissipative System of type I (UDS-I)** [1](#references) using:
+The project focuses on the digital implementation of a neural identifier for an **Unstable Dissipative System of type I (UDS-I)** [[1]](#ref-1) using:
 
 - 32-bit fixed-point two's-complement arithmetic,
 - Q1.11.20 numerical representation,
